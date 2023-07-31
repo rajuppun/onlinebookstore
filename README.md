@@ -42,7 +42,7 @@
 - Sql/MySql.
 - Mysql
 
-### Database Creation:
+### Database Creation: 
 
 Go to the Folder named <a href="https://github.com/shashirajraja/onlinebookstore/blob/gh-pages/Dummy_Database.md">Dummy_Database.md</a> and copy and paste the mysql command for making the database tables and fill some dummy database.
 
